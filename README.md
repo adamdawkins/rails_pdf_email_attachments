@@ -9,6 +9,9 @@ Things you may want to cover:
 
 * System dependencies
 
+Development is set to point to a localhost SMTP server run with [MailCatcher](http://mailcatcher.me).
+To install, run `gem install mailcatcher` and then `mailcatcher` to run
+
 * Configuration
 
 * Database creation
